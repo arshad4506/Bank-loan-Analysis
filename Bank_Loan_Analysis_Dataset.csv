@@ -1,0 +1,31 @@
+Loan_ID,Customer_Name,Age,Gender,Region,Employment_Type,Annual_Income,Loan_Amount,Interest_Rate,Loan_Term_Years,Credit_Score,DTI_Ratio,Loan_Purpose,Application_Status,Repayment_Status,Application_Date,Funded_Amount,Received_Amount,Loan_Quality,Application_Year,Application_Month,Application_Month_Number,Year_Month
+1001,Arshad,24,Male,South,Salaried,450000,200000,8.5,5,760,18,Home,Approved,Paid,2025-01-05,200000,220000.00000000003,Good Loan,2025,January,1,2025-01
+1002,Rahul,29,Male,South,Self-Employed,650000,350000,9.2,7,720,25,Education,Approved,Paid,2025-01-12,350000,385000.00000000006,Good Loan,2025,January,1,2025-01
+1003,Priya,35,Female,West,Salaried,800000,500000,7.8,10,810,15,Home,Approved,Paid,2025-01-20,500000,550000.0,Good Loan,2025,January,1,2025-01
+1004,Kiran,42,Male,North,Salaried,950000,750000,8.1,15,780,20,Business,Approved,Paid,2025-02-03,750000,825000.0000000001,Good Loan,2025,February,2,2025-02
+1005,Anjali,31,Female,South,Self-Employed,550000,300000,10.5,5,650,38,Personal,Approved,Late,2025-02-15,300000,270000.0,Bad Loan,2025,February,2,2025-02
+1006,Vikram,27,Male,East,Salaried,720000,400000,9.0,7,735,22,Vehicle,Approved,Paid,2025-02-25,400000,440000.00000000006,Good Loan,2025,February,2,2025-02
+1007,Sneha,39,Female,South,Salaried,880000,600000,8.2,10,790,17,Home,Approved,Paid,2025-03-08,600000,660000.0,Good Loan,2025,March,3,2025-03
+1008,Ravi,45,Male,West,Self-Employed,1100000,900000,7.5,15,820,12,Business,Approved,Paid,2025-03-18,900000,990000.0000000001,Good Loan,2025,March,3,2025-03
+1009,Neha,26,Female,South,Salaried,480000,250000,11.0,5,620,45,Personal,Rejected,Default,2025-03-28,0,100000.0,Rejected,2025,March,3,2025-03
+1010,Aman,33,Male,North,Salaried,600000,450000,9.5,7,700,30,Education,Approved,Paid,2025-04-06,450000,495000.00000000006,Good Loan,2025,April,4,2025-04
+1011,Suresh,38,Male,East,Self-Employed,750000,550000,8.0,10,775,19,Home,Approved,Paid,2025-04-15,550000,605000.0,Good Loan,2025,April,4,2025-04
+1012,Divya,30,Female,South,Salaried,520000,280000,10.2,5,660,40,Personal,Rejected,Default,2025-04-25,0,112000.0,Rejected,2025,April,4,2025-04
+1013,Naveen,41,Male,North,Salaried,900000,700000,7.9,15,805,14,Business,Approved,Paid,2025-05-05,700000,770000.0000000001,Good Loan,2025,May,5,2025-05
+1014,Pooja,28,Female,West,Self-Employed,680000,380000,9.1,7,710,28,Vehicle,Approved,Late,2025-05-16,380000,342000.0,Bad Loan,2025,May,5,2025-05
+1015,Imran,36,Male,South,Salaried,820000,650000,8.4,10,750,21,Home,Approved,Paid,2025-05-27,650000,715000.0,Good Loan,2025,May,5,2025-05
+1016,Kavya,25,Female,East,Salaried,470000,220000,11.5,5,590,52,Personal,Rejected,Default,2025-06-07,0,88000.0,Rejected,2025,June,6,2025-06
+1017,Rohit,44,Male,North,Self-Employed,1050000,800000,7.6,15,815,13,Business,Approved,Paid,2025-06-18,800000,880000.0000000001,Good Loan,2025,June,6,2025-06
+1018,Meena,32,Female,South,Salaried,580000,320000,10.0,7,680,35,Education,Rejected,Default,2025-06-29,0,128000.0,Rejected,2025,June,6,2025-06
+1019,Adil,37,Male,West,Salaried,760000,500000,8.7,10,745,23,Vehicle,Approved,Paid,2025-07-08,500000,550000.0,Good Loan,2025,July,7,2025-07
+1020,Swathi,40,Female,South,Self-Employed,630000,420000,9.3,7,690,32,Home,Approved,Late,2025-07-20,420000,378000.0,Bad Loan,2025,July,7,2025-07
+1021,Manoj,29,Male,North,Salaried,700000,360000,8.9,5,725,24,Vehicle,Approved,Paid,2025-07-30,360000,396000.00000000006,Good Loan,2025,July,7,2025-07
+1022,Ayesha,34,Female,South,Salaried,850000,580000,8.1,10,795,16,Home,Approved,Paid,2025-08-10,580000,638000.0,Good Loan,2025,August,8,2025-08
+1023,Tarun,46,Male,East,Self-Employed,1150000,950000,7.4,15,610,48,Business,Rejected,Default,2025-08-21,0,380000.0,Rejected,2025,August,8,2025-08
+1024,Lakshmi,27,Female,West,Salaried,490000,240000,10.8,5,640,42,Personal,Rejected,Default,2025-08-31,0,96000.0,Rejected,2025,August,8,2025-08
+1025,Farhan,39,Male,South,Salaried,780000,620000,8.6,10,770,20,Education,Approved,Paid,2025-09-10,620000,682000.0,Good Loan,2025,September,9,2025-09
+1026,Deepak,31,Male,North,Self-Employed,620000,310000,9.7,7,685,34,Home,Approved,Paid,2025-09-20,310000,341000.0,Good Loan,2025,September,9,2025-09
+1027,Nisha,43,Female,South,Salaried,920000,720000,7.8,15,800,15,Business,Approved,Paid,2025-09-30,720000,792000.0000000001,Good Loan,2025,September,9,2025-09
+1028,Varun,28,Male,West,Salaried,540000,290000,10.4,5,625,39,Personal,Rejected,Default,2025-10-10,0,116000.0,Rejected,2025,October,10,2025-10
+1029,Shreya,36,Female,East,Self-Employed,730000,470000,8.8,10,755,22,Vehicle,Approved,Paid,2025-10-20,470000,517000.00000000006,Good Loan,2025,October,10,2025-10
+1030,Akash,41,Male,South,Salaried,980000,680000,8.0,15,815,18,Home,Approved,Paid,2025-10-30,680000,748000.0000000001,Good Loan,2025,October,10,2025-10
